@@ -1,10 +1,10 @@
 ### t½ - Life Journeys of Wikipedia's Top Figures Throughout History
- ###### By: Yichen Zhang, Kenny He Chen, Kohei Sumida
+ ###### By:  Kenny He Chen, Yichen Zhang, Kohei Sumida
   ###### University of British Columbia - CPSC 447: Intro. to Visualization, Jan 2023
 
-#### https://ethanyichen.github.io/t1over2/
+#### https://github.com/KennyHc/Multiview-Data-Visualization-D3-Famous-People
 
-![alt text](https://github.com/ethanyichen/t1over2.github.io/blob/main/readMeThumbNail.png)
+![image](https://github.com/KennyHc/Multiview-Data-Visualization-D3-Famous-People/assets/72113683/ebe3453f-8b0c-486a-ae70-31c250dfa5aa)
 
 Credits:
 
