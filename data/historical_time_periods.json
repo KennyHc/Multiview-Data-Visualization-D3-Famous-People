@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Ancient history",
+    "yearRange": [-3000, 500],
+    "yearRangeWrittenNotation": "3000 B.C. – 500 A.D.",
+    "description": "Ancient history is a time period from the beginning of writing and recorded human history to as far as late antiquity. The span of recorded history is roughly 5,000 years."
+  },
+  {
+    "Name": "Post-classical history",
+    "yearRange": [500, 1500],
+    "yearRangeWrittenNotation": "500 A.D. – 1500 A.D.",
+    "description":"Roughly corresponding to the European Middle Ages, It is an era characterized by the expansion of civilizations and development of trade networks between civilizations"
+  },
+  {
+    "Name": "Early modern period",
+    "yearRange": [1500, 1800],
+    "yearRangeWrittenNotation": "1500 A.D. – 1800 A.D.",
+    "description": "The period after the Late Middle Ages of the post-classical era (c. 1400–1500) to the beginning of the Age of Revolutions (c. 1800)."
+  },
+  {
+    "Name": "Late modern period",
+    "yearRange": [1800, 1945],
+    "yearRangeWrittenNotation": "1800 A.D. – 1945 A.D.",
+    "description": "Began approximately around the year 1800, ended with the beginning of contemporary history after World War II"
+  },
+  {
+    "Name": "Contemporary history",
+    "yearRange": [1945, 2023],
+    "yearRangeWrittenNotation": "1945 A.D. – Present",
+    "description" : "Subset of modern history that describes the historical period from approximately 1945 to the present."
+  }
+]
