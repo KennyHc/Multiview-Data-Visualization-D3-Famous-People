@@ -4,7 +4,7 @@
 
 #### [Live demo](https://kennyhc.github.io/Multiview-Data-Visualization-D3-Famous-People/)
 
-(![image](https://github.com/user-attachments/assets/d68e37d3-6b81-45d3-83ce-06dfb4dc6202)
+![image](https://github.com/user-attachments/assets/d68e37d3-6b81-45d3-83ce-06dfb4dc6202)
 
 
 Credits:
