@@ -2,9 +2,10 @@
  ###### By:  Kenny He Chen, Yichen Zhang, Kohei Sumida
   ###### University of British Columbia - CPSC 447: Intro. to Visualization, Jan 2023
 
-#### https://github.com/KennyHc/Multiview-Data-Visualization-D3-Famous-People
+#### [Live demo](https://kennyhc.github.io/Multiview-Data-Visualization-D3-Famous-People/)
 
-![image](https://kennyhc.github.io/Multiview-Data-Visualization-D3-Famous-People/)
+![image](![image](https://github.com/user-attachments/assets/d68e37d3-6b81-45d3-83ce-06dfb4dc6202)
+
 
 Credits:
 
