@@ -4,7 +4,7 @@
 
 #### https://github.com/KennyHc/Multiview-Data-Visualization-D3-Famous-People
 
-![image](https://github.com/KennyHc/Multiview-Data-Visualization-D3-Famous-People/assets/72113683/ebe3453f-8b0c-486a-ae70-31c250dfa5aa)
+![image](https://kennyhc.github.io/Multiview-Data-Visualization-D3-Famous-People/)
 
 Credits:
 
